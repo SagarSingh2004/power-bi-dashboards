@@ -7,6 +7,7 @@ It provides insights into employee distribution, promotions, service years, job 
 ## 📂 Files Included
 - `HR_Dashboard.pbix` – Power BI interactive dashboard
 - `HR_Dashboard.pdf` – Exported dashboard for quick preview
+- `HR_Analytics_Data.csv` – Dataset for the dashboard
 
 ## 📊 Key Insights
 - Total Employees: 1,470
