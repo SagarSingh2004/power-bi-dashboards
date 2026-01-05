@@ -79,7 +79,7 @@ These filters allow users to drill down into specific segments easily.
 ## 📂 Files Included
 - `Electric_Vehicle_Analysis.pbix` – Power BI dashboard file  
 - `Electric_Vehicle_Analysis.pdf` – Dashboard export
-- `Electric_Vehicle_Population_Data.csv` – Dataset
+- `Electric_Vehicle_Population_Data.zip` – Dataset
 - `README.md` – Project documentation  
 
 ---
